@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\23 Bai Tap\Mediator\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_Pattern17_Mediator\bin\Debug\DPM225512_VoKhoaNguyen_Pattern17_Mediator.exe.config
+C:\Users\Admin\Desktop\23 Bai Tap\Mediator\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_Pattern17_Mediator\bin\Debug\DPM225512_VoKhoaNguyen_Pattern17_Mediator.exe
+C:\Users\Admin\Desktop\23 Bai Tap\Mediator\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_Pattern17_Mediator\bin\Debug\DPM225512_VoKhoaNguyen_Pattern17_Mediator.pdb
+C:\Users\Admin\Desktop\23 Bai Tap\Mediator\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_Pattern17_Mediator\obj\Debug\DPM225512_VoKhoaNguyen_Pattern17_Mediator.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\23 Bai Tap\Mediator\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_Pattern17_Mediator\obj\Debug\DPM225512_VoKhoaNguyen_Pattern17_Mediator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\23 Bai Tap\Mediator\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_Pattern17_Mediator\obj\Debug\DPM225512_VoKhoaNguyen_Pattern17_Mediator.exe
+C:\Users\Admin\Desktop\23 Bai Tap\Mediator\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_Pattern17_Mediator\obj\Debug\DPM225512_VoKhoaNguyen_Pattern17_Mediator.pdb
