@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\23 Bai Tap\Interpreter\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealMe15_Interpreter\bin\Debug\DPM225512_VoKhoaNguyen_RealMe15_Interpreter.exe.config
+C:\Users\Admin\Desktop\23 Bai Tap\Interpreter\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealMe15_Interpreter\bin\Debug\DPM225512_VoKhoaNguyen_RealMe15_Interpreter.exe
+C:\Users\Admin\Desktop\23 Bai Tap\Interpreter\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealMe15_Interpreter\bin\Debug\DPM225512_VoKhoaNguyen_RealMe15_Interpreter.pdb
+C:\Users\Admin\Desktop\23 Bai Tap\Interpreter\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealMe15_Interpreter\obj\Debug\DPM225512_VoKhoaNguyen_RealMe15_Interpreter.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\23 Bai Tap\Interpreter\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealMe15_Interpreter\obj\Debug\DPM225512_VoKhoaNguyen_RealMe15_Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\23 Bai Tap\Interpreter\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealMe15_Interpreter\obj\Debug\DPM225512_VoKhoaNguyen_RealMe15_Interpreter.exe
+C:\Users\Admin\Desktop\23 Bai Tap\Interpreter\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealMe15_Interpreter\obj\Debug\DPM225512_VoKhoaNguyen_RealMe15_Interpreter.pdb
