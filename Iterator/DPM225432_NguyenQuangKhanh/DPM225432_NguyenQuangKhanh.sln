@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225512_VoKhoaNguyen_Pattern16_Iterator", "DPM225512_VoKhoaNguyen_Pattern16_Iterator\DPM225512_VoKhoaNguyen_Pattern16_Iterator.csproj", "{016FD767-CCED-4CCC-9509-27DD2B15355B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225512_VoKhoaNguyen_RealWorld16_Iterator", "DPM225512_VoKhoaNguyen_RealWorld16_Iterator\DPM225512_VoKhoaNguyen_RealWorld16_Iterator.csproj", "{54354DB0-4E9C-4B30-9DF6-C8E433610D11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{016FD767-CCED-4CCC-9509-27DD2B15355B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{016FD767-CCED-4CCC-9509-27DD2B15355B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{016FD767-CCED-4CCC-9509-27DD2B15355B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{016FD767-CCED-4CCC-9509-27DD2B15355B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54354DB0-4E9C-4B30-9DF6-C8E433610D11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54354DB0-4E9C-4B30-9DF6-C8E433610D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54354DB0-4E9C-4B30-9DF6-C8E433610D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54354DB0-4E9C-4B30-9DF6-C8E433610D11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCC02384-B782-45FE-82F1-0A48E132CAAE}
+	EndGlobalSection
+EndGlobal
