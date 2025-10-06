@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\23\Builder\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealMe02_Builder\bin\Debug\DPM225512_VoKhoaNguyen_RealMe02_Builder.exe.config
+C:\Users\Admin\Desktop\23\Builder\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealMe02_Builder\bin\Debug\DPM225512_VoKhoaNguyen_RealMe02_Builder.exe
+C:\Users\Admin\Desktop\23\Builder\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealMe02_Builder\bin\Debug\DPM225512_VoKhoaNguyen_RealMe02_Builder.pdb
+C:\Users\Admin\Desktop\23\Builder\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealMe02_Builder\obj\Debug\DPM225512_VoKhoaNguyen_RealMe02_Builder.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\23\Builder\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealMe02_Builder\obj\Debug\DPM225512_VoKhoaNguyen_RealMe02_Builder.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\23\Builder\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealMe02_Builder\obj\Debug\DPM225512_VoKhoaNguyen_RealMe02_Builder.exe
+C:\Users\Admin\Desktop\23\Builder\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealMe02_Builder\obj\Debug\DPM225512_VoKhoaNguyen_RealMe02_Builder.pdb
