@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\23 Bai Tap\Observer\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealMe19_Observer\bin\Debug\DPM225512_VoKhoaNguyen_RealMe19_Observer.exe.config
+C:\Users\Admin\Desktop\23 Bai Tap\Observer\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealMe19_Observer\bin\Debug\DPM225512_VoKhoaNguyen_RealMe19_Observer.exe
+C:\Users\Admin\Desktop\23 Bai Tap\Observer\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealMe19_Observer\bin\Debug\DPM225512_VoKhoaNguyen_RealMe19_Observer.pdb
+C:\Users\Admin\Desktop\23 Bai Tap\Observer\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealMe19_Observer\obj\Debug\DPM225512_VoKhoaNguyen_RealMe19_Observer.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\23 Bai Tap\Observer\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealMe19_Observer\obj\Debug\DPM225512_VoKhoaNguyen_RealMe19_Observer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\23 Bai Tap\Observer\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealMe19_Observer\obj\Debug\DPM225512_VoKhoaNguyen_RealMe19_Observer.exe
+C:\Users\Admin\Desktop\23 Bai Tap\Observer\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealMe19_Observer\obj\Debug\DPM225512_VoKhoaNguyen_RealMe19_Observer.pdb
