@@ -1,0 +1,7 @@
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\Dpm225518_LeNguyenMinhTien_pattern_10_ Facade\Structural\Structural\bin\Debug\Structural.exe.config
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\Dpm225518_LeNguyenMinhTien_pattern_10_ Facade\Structural\Structural\bin\Debug\Structural.exe
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\Dpm225518_LeNguyenMinhTien_pattern_10_ Facade\Structural\Structural\bin\Debug\Structural.pdb
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\Dpm225518_LeNguyenMinhTien_pattern_10_ Facade\Structural\Structural\obj\Debug\Structural.csproj.AssemblyReference.cache
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\Dpm225518_LeNguyenMinhTien_pattern_10_ Facade\Structural\Structural\obj\Debug\Structural.csproj.CoreCompileInputs.cache
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\Dpm225518_LeNguyenMinhTien_pattern_10_ Facade\Structural\Structural\obj\Debug\Structural.exe
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\Dpm225518_LeNguyenMinhTien_pattern_10_ Facade\Structural\Structural\obj\Debug\Structural.pdb

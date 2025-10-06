@@ -1,0 +1,7 @@
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\Dpm225518_LeNguyenMinhTien_pattern_10_ Facade\Real-world\Real-world\obj\Debug\Real-world.csproj.AssemblyReference.cache
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\Dpm225518_LeNguyenMinhTien_pattern_10_ Facade\Real-world\Real-world\obj\Debug\Real-world.csproj.CoreCompileInputs.cache
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\Dpm225518_LeNguyenMinhTien_pattern_10_ Facade\Real-world\Real-world\bin\Debug\Real-world.exe.config
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\Dpm225518_LeNguyenMinhTien_pattern_10_ Facade\Real-world\Real-world\bin\Debug\Real-world.exe
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\Dpm225518_LeNguyenMinhTien_pattern_10_ Facade\Real-world\Real-world\bin\Debug\Real-world.pdb
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\Dpm225518_LeNguyenMinhTien_pattern_10_ Facade\Real-world\Real-world\obj\Debug\Real-world.exe
+D:\Thiết Kế-Phát Triển-Bảo Trì -Phần Mềm\Dpm225518_LeNguyenMinhTien_pattern_10_ Facade\Real-world\Real-world\obj\Debug\Real-world.pdb
