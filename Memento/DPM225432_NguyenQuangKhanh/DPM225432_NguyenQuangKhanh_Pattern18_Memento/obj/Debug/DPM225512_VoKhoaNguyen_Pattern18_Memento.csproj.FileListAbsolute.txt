@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\23 Bai Tap\Memento\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_Pattern18_Memento\bin\Debug\DPM225512_VoKhoaNguyen_Pattern18_Memento.exe.config
+C:\Users\Admin\Desktop\23 Bai Tap\Memento\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_Pattern18_Memento\bin\Debug\DPM225512_VoKhoaNguyen_Pattern18_Memento.exe
+C:\Users\Admin\Desktop\23 Bai Tap\Memento\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_Pattern18_Memento\bin\Debug\DPM225512_VoKhoaNguyen_Pattern18_Memento.pdb
+C:\Users\Admin\Desktop\23 Bai Tap\Memento\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_Pattern18_Memento\obj\Debug\DPM225512_VoKhoaNguyen_Pattern18_Memento.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\23 Bai Tap\Memento\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_Pattern18_Memento\obj\Debug\DPM225512_VoKhoaNguyen_Pattern18_Memento.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\23 Bai Tap\Memento\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_Pattern18_Memento\obj\Debug\DPM225512_VoKhoaNguyen_Pattern18_Memento.exe
+C:\Users\Admin\Desktop\23 Bai Tap\Memento\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_Pattern18_Memento\obj\Debug\DPM225512_VoKhoaNguyen_Pattern18_Memento.pdb
