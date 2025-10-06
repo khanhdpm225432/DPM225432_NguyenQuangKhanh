@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\23 Bai Tap\Prototype\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealWorld04_Prototype\bin\Debug\DPM225512_VoKhoaNguyen_RealWorld04_Prototype.exe.config
+C:\Users\Admin\Desktop\23 Bai Tap\Prototype\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealWorld04_Prototype\bin\Debug\DPM225512_VoKhoaNguyen_RealWorld04_Prototype.exe
+C:\Users\Admin\Desktop\23 Bai Tap\Prototype\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealWorld04_Prototype\bin\Debug\DPM225512_VoKhoaNguyen_RealWorld04_Prototype.pdb
+C:\Users\Admin\Desktop\23 Bai Tap\Prototype\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealWorld04_Prototype\obj\Debug\DPM225512_VoKhoaNguyen_RealWorld04_Prototype.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\23 Bai Tap\Prototype\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealWorld04_Prototype\obj\Debug\DPM225512_VoKhoaNguyen_RealWorld04_Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\23 Bai Tap\Prototype\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealWorld04_Prototype\obj\Debug\DPM225512_VoKhoaNguyen_RealWorld04_Prototype.exe
+C:\Users\Admin\Desktop\23 Bai Tap\Prototype\DPM225512_VoKhoaNguyen\DPM225512_VoKhoaNguyen_RealWorld04_Prototype\obj\Debug\DPM225512_VoKhoaNguyen_RealWorld04_Prototype.pdb
