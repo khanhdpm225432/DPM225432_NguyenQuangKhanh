@@ -1,0 +1,14 @@
+Z:\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Extract Method.GeneratedMSBuildEditorConfig.editorconfig
+Z:\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Extract Method.AssemblyInfoInputs.cache
+Z:\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Extract Method.AssemblyInfo.cs
+Z:\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Extract Method.csproj.CoreCompileInputs.cache
+Z:\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Extract Method.exe
+Z:\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Extract Method.deps.json
+Z:\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Extract Method.runtimeconfig.json
+Z:\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Extract Method.dll
+Z:\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Extract Method.pdb
+Z:\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Extract Method.dll
+Z:\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Extract Method.dll
+Z:\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Extract Method.pdb
+Z:\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Extract Method.genruntimeconfig.cache
+Z:\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\Extract Method.dll
